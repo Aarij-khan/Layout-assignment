@@ -1,0 +1,272 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+#two{
+    height: 150px;
+    width: 270px;
+    background-color: #eccc68;
+    color: white;
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-end;
+    font-size: 18pt;
+    letter-spacing: 2px;
+
+}
+#three{
+    height: 150px;
+    width: 270px;
+    background-color: #ff7f50;
+    color: white;
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-end;
+    font-size: 18pt;
+    letter-spacing: 2px;
+
+}
+#four{
+    height: 150px;
+    width: 270px;
+    background-color:#ff6b81;
+    color: white;
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-end;
+    font-size: 18pt;
+    letter-spacing: 2px;
+
+}
+#five{
+    eight: 150px;
+    width: 270px;
+    background-color:#a4b0be;
+    color: white;
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-end;
+    font-size: 18pt;
+    letter-spacing: 2px;
+
+}
+#six{
+    height: 150px;
+    width: 260px;
+    background-color:#57606f;
+    color: white;
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-end;
+    font-size: 18pt;
+    letter-spacing: 2px;
+    
+}
+#seven{
+    height: 150px;
+    width: 270px;
+    background-color: #ffa502;
+    color: white;
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-end;
+    font-size: 18pt;
+    letter-spacing: 2px;
+
+}
+#eight{
+    height: 150px;
+    width: 270px;
+    background-color: #ff6348;
+    color: white;
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-end;
+    font-size: 18pt;
+    letter-spacing: 2px;
+
+}
+#nine{
+    height: 150px;
+    width: 270px;
+    background-color: #ff4757;
+    color: white;
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-end;
+    font-size: 18pt;
+    letter-spacing: 2px;
+
+}
+#ten{
+    height: 150px;
+    width: 270px;
+    background-color: #747d8c;
+    color: white;
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-end;
+    font-size: 18pt;
+    letter-spacing: 2px;
+
+}
+#div11{
+    height: 150px;
+    width: 260px;
+    background-color: #2f3542;
+    color: white;
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-end;
+    font-size: 18pt;
+    letter-spacing: 2px;
+
+}
+#div12{
+    height: 150px;
+    width: 270px;
+    background-color: #7bed9f;
+    color: white;
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-end;
+    font-size: 18pt;
+    letter-spacing: 2px;
+
+}
+#div13{
+    height: 150px;
+    width: 270px;
+    background-color: #70a1ff;
+    color: white;
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-end;
+    font-size: 18pt;
+    letter-spacing: 2px;
+
+}
+#div14{
+    height: 150px;
+    width: 270px;
+    background-color:#5352ed;
+    color: white;
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-end;
+    font-size: 18pt;
+    letter-spacing: 2px;
+
+}
+#div15{
+    height: 150px;
+    width: 270px;
+    background-color: #ffffff;
+    color: white;
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-end;
+    font-size: 18pt;
+    letter-spacing: 2px;
+
+}
+#div16{
+    height: 150px;
+    width: 260px;
+    background-color: #dfe4ea;
+    color: white;
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-end;
+    font-size: 18pt;
+    letter-spacing: 2px;
+
+}
+#div17{
+    height: 150px;
+    width: 270px;
+    background-color: #2ed573;
+    color: white;
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-end;
+    font-size: 18pt;
+    letter-spacing: 2px;
+
+}
+#div18{
+    height: 150px;
+    width: 270px;
+    background-color: #1e90ff;
+    color: white;
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-end;
+    font-size: 18pt;
+    letter-spacing: 2px;
+
+}
+#div19{
+    height: 150px;
+    width: 270px;
+    background-color:#3742fa;
+    color: white;
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-end;
+    font-size: 18pt;
+    letter-spacing: 2px;
+
+}
+#div20{
+    height: 150px;
+    width: 270px;
+    background-color: #f1f2f6;
+    color: white;
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-end;
+    font-size: 18pt;
+    letter-spacing: 2px;
+
+}
+#div21{
+    height: 150px;
+    width: 260px;
+    background-color:#ced6e0;
+    color: white;
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-end;
+    font-size: 18pt;
+    letter-spacing: 2px;
+
+}
+#container{
+    height: 605px;
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 40px;
+
+}
+#button,a{
+    margin-top: 15px;
+    margin-left: 8px;
+    text-decoration: none;
+    font-size: 14pt;
+
+
+}
+#center{
+    height: 30px;
+    width: 350px;
+    position: absolute;
+    top: 0px;
+    right:520px;
+    border: 2px solid black;
+    background-color: black;
+    color: white;
+    padding: 5px;
+    text-align: center;
+    font-size: 15pt;
+}
